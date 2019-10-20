@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "617071629914",
+    "firebase_url": "https://mypet-fd686.firebaseio.com",
+    "project_id": "mypet-fd686",
+    "storage_bucket": "mypet-fd686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617071629914:android:0ac403c44b60bb49",
+        "android_client_info": {
+          "package_name": "supermegadevelopers.ayanamira.mypet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617071629914-9qmltfsl9rtjcv93rkr9db2ckv6ofijv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "supermegadevelopers.ayanamira.mypet",
+            "certificate_hash": "c2906d2194a45629775738625af6ed73e217ac8e"
+          }
+        },
+        {
+          "client_id": "617071629914-qmur2r4bt1149b1flh8rh16j27fk4leh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8NleiXJp293wEswNkdKCapafAojKwa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617071629914-qmur2r4bt1149b1flh8rh16j27fk4leh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
